@@ -1,0 +1,15 @@
+# python files
+_pycach_/
+*.pyc
+*.pyo
+
+#config files
+config.txt
+.env
+
+#log files
+*.log
+
+#
+
+keystrokes.txt
